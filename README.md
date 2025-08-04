@@ -49,7 +49,7 @@ Compliance-Breach-Monitoring/
 ![Sheet 3](assets/sheet3_trend.png)
 
 ### 🔹 Complete Dashboard  
-![Dashboard](assets/dashboard_full.png)
+![Dashboard](assets/Dashboard_full.png)
 
 
 ---
