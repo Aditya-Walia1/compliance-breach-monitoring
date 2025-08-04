@@ -59,18 +59,12 @@ Compliance-Breach-Monitoring/
 
 ---
 
-## 🧑‍💼 Relevance to JP Morgan
+## 🧑‍💼 Relevance 
 
-This dashboard aligns with **JPMC’s Global Risk & Compliance program** by:
+This dashboard aligns with **Global Risk & Compliance program** by:
 - Demonstrating data-driven risk identification
 - Supporting audit trail logging (via optional Python backend)
 - Enabling visual governance and early-warning compliance signals
-
----
-
-## 📌 Resume Bullet (Use this!)
-
-> Developed a compliance dashboard in Tableau to monitor client-level breaches, highlight risky behavior, and visualize time-based trends — aligned with JP Morgan's Global Risk & Compliance objectives.
 
 ---
 
