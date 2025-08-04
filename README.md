@@ -37,17 +37,20 @@ Compliance-Breach-Monitoring/
 
 ## 🖼️ Dashboard Snapshots
 
-### 🔹 Breach Type Distribution
+## 🖼️ Dashboard Snapshots
+
+### 🔹 Breach Type Distribution  
 ![Sheet 1](assets/sheet1_breach_types.png)
 
-### 🔹 Top 10 Risky Clients
+### 🔹 Top 10 Risky Clients  
 ![Sheet 2](assets/sheet2_top_clients.png)
 
-### 🔹 Daily Breach Timeline
+### 🔹 Daily Breach Timeline  
 ![Sheet 3](assets/sheet3_trend.png)
 
-### 🔹 Complete Dashboard
-![Dashboard](assets/Dashboard_full.png)
+### 🔹 Complete Dashboard  
+![Dashboard](assets/dashboard_full.png)
+
 
 ---
 
