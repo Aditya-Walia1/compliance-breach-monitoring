@@ -1,6 +1,6 @@
 # 🛡️ Compliance Breach Detection & Monitoring Dashboard
 
-An interactive Tableau dashboard to track, visualize, and analyze compliance breaches across clients, breach types, and time. Designed to support proactive risk monitoring, audit preparation, and compliance enforcement — aligned with JP Morgan’s Global Risk & Compliance vision.
+An interactive Tableau dashboard to track, visualize, and analyze compliance breaches across clients, breach types, and time. Designed to support proactive risk monitoring, audit preparation, and compliance enforcement — aligned with  Global Risk & Compliance vision.
 
 ---
 
